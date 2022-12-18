@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peerapat</h1>
+I'm Studying computer engineering in Rajamangala University of Technology Thailand.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/phisic1714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peerapat sariman" height="30" width="40" /></a>
