@@ -14,8 +14,6 @@ I'm Studying computer engineering in Rajamangala University of Technology Thaila
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phisic1714" alt="phisic1714" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phisic1714&show_icons=true&locale=en&layout=compact" alt="phisic1714" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phisic1714&show_icons=true&locale=en" alt="phisic1714" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phisic1714&" alt="phisic1714" /></p>
